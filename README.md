@@ -1,7 +1,7 @@
 # SDN-Firewall-as-a-service-for-Floodlight-Controller-using-REST
 
- <img src='http://i.imgur.com/tblRUxo.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
- http://imgur.com/tblRUxo
+ <img src='http://imgur.com/tblRUxo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ http://imgur.com/tblRUxo.gif
 [Imgur](http://i.imgur.com/tblRUxo.gifv)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Firewall as a serviceSDN Firewall as a service for Floodlight Controller using REST
