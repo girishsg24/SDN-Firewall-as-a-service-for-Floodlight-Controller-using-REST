@@ -1,6 +1,6 @@
 # SDN-Firewall-as-a-service-for-Floodlight-Controller-using-REST
 
- <img src='http://imgur.com/tblRUxo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='http://i.imgur.com/tblRUxo.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  http://imgur.com/tblRUxo
 [Imgur](http://i.imgur.com/tblRUxo.gifv)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
