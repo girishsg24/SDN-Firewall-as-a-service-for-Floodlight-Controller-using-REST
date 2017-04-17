@@ -1,6 +1,6 @@
 # SDN-Firewall-as-a-service-for-Floodlight-Controller-using-REST
 
-Video Walk through link below
+Video Walk through link
 [Imgur](http://i.imgur.com/tblRUxo.gifv)
 
 Firewall as a serviceSDN Firewall as a service for Floodlight Controller using REST
