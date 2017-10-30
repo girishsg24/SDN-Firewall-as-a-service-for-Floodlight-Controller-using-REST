@@ -25,4 +25,3 @@ Firewall as a Service
 •	Delete a rule by ID
 -	Takes in a ID and deletes that particular ID
 5.	A working demo has been added with this file as a gif file(video) where we explore all the features of the application.
-
